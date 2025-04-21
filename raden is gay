@@ -1,12 +1,9 @@
-<title>Secret Mode</title>
-WOW, You found this so heres some info on the site This site is made using entirly AI, there will be some ai features added soon but whatever about that right now.
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Simple Message</title>
-</head>
-<body>
-  <p>I'm gay</p>
-</body>
-</html>
+<section id="try-summary" style="background: #e7f3fe; border-left: 6px solid #2196F3; padding: 15px; margin-top: 20px; max-width: 900px;">
+  <h3>How the "Try It Yourself" Feature Works (Summary)</h3>
+  <p>The "Try It Yourself" editors let you write and run your own code directly on this page.</p>
+  <ul>
+    <li><strong>HTML Editor:</strong> When you press "Run," your HTML code is displayed live below using the browser’s iframe feature, which shows exactly how your webpage will look.</li>
+    <li><strong>JavaScript Editor:</strong> When running JavaScript code, all <code>console.log</code> outputs are captured by a custom console and displayed below the editor, so you can see results and error messages immediately.</li>
+  </ul>
+  <p>This setup lets you experiment and learn by doing — no external tools or websites are needed!</p>
+</section>
